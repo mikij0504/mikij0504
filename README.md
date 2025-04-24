@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I come from Tainan.
+I'm studying in NSYSU.
+I like playing volleyball.
+I feel asleep now.
+I'm trying to finish the homework now.
+
 <!--
 **mikij0504/mikij0504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
